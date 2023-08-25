@@ -1,22 +1,24 @@
 # Closure Calculator Project - Relational Algebra
-![Project Demo](demo.gif) <!-- If you have a demo/gif, include it here -->
+![Project Demo](images/demo.gif) <!-- If you have a demo/gif, include it here -->
 
 Welcome to the **Closure Calculator** project! This web application allows users to calculate the closure of attributes for a given set of functional dependencies. Whether you're studying databases or looking to understand the concept of attribute closure, this project provides an interactive platform to experiment and learn.
 
 ## Table of Contents
 
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
+- [Closure Calculator Project - Relational Algebra](#closure-calculator-project---relational-algebra)
+  - [Table of Contents](#table-of-contents)
+  - [Demo](#demo)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Technologies Used](#technologies-used)
+  - [Contributing](#contributing)
 
 ## Demo
 
 Here's a preview of the project in action:
 
-![Project Demo](demo.gif) <!-- If you have a demo/gif, include it here -->
+https://cc.jadamohamed.me
 
 ## Features
 
